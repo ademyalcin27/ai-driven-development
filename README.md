@@ -73,3 +73,11 @@ bun run preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+
+## Cursor Promo
+1- Database
+ I want to create a dummy blog. I want to  store posts in a DB table post. Can you help me setup the DB schema and seeds?
+ -> select database.mdc
+2- API
+  ok, forget the TS issues. I fixed it. Now lets setup API endpoints for each of these for the post resource. Give me the full CRUD operations
+  -> select api.mdc
